@@ -5,7 +5,9 @@
 </div>
 
 ### Junior Fullstack Developer | Innovación & Estrategia de Mercado
-soy un desarrollador apasionado por la innovación constante. cuento con experiencia en marketing digital, lo que me permite tener un enfoque único: busco comprender el mercado para identificar el "gancho" perfecto que conecte con el público y genere impacto real
+
+Soy un desarrollador de 17 años (nacido el 7 de septiembre de 2008) apasionado por la **innovación constante**. Mi enfoque va más allá del código: busco **comprender el mercado** para identificar el "gancho" perfecto que conecte con el público y genere impacto real.
+
 ---
 
 ## Mi Stack Tecnológico
@@ -45,7 +47,7 @@ Actualmente desarrollo múltiples proyectos dentro de **Riwi**, donde aplico met
 
 - **Correo:** [cifuentesalfonso367@gmail.com](mailto:cifuentesalfonso367@gmail.com)
 - **Teléfono:** [+57 313 6932945](https://wa.me/573136932945)
-
+- **LinkedIn:** [Emmanuel Cifuentes](https://github.com/cifuentesalfonso367-dotcom) (Ajustar link si aplica)
 
 ---
 
