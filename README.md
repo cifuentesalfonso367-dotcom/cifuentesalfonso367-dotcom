@@ -6,8 +6,7 @@
 
 ### Junior Fullstack Developer | Innovación & Estrategia de Mercado
 
-
-Soy un desarrollador apasionado por la **innovación constante**. Cuento con experiencia en **marketing digital**, lo que me permite tener un enfoque único: busco **comprender el mercado** para identificar el "gancho" perfecto que conecte con el público y genere impacto real.
+soy un desarrollador apasionado por la innovación constante. cuento con experiencia en marketing digital, lo que me permite tener un enfoque único: busco comprender el mercado para identificar el "gancho" perfecto que conecte con el público y genere impacto real
 ---
 
 ## Mi Stack Tecnológico
