@@ -47,7 +47,7 @@ Actualmente desarrollo múltiples proyectos dentro de **Riwi**, donde aplico met
 
 - **Correo:** [cifuentesalfonso367@gmail.com](mailto:cifuentesalfonso367@gmail.com)
 - **Teléfono:** [+57 313 6932945](https://wa.me/573136932945)
-- **LinkedIn:** [Emmanuel Cifuentes](https://github.com/cifuentesalfonso367-dotcom) (Ajustar link si aplica)
+
 
 ---
 
