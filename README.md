@@ -14,12 +14,14 @@ Soy un desarrollador de 17 años (nacido el 7 de septiembre de 2008) apasionado 
 
 He desarrollado habilidades sólidas en las tecnologías más demandadas del mercado para construir soluciones robustas y escalables:
 
-| Frontend | Backend & Core | Tools & DB |
-| :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | | |
+### 🌐 Frontend
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img align="center" src="./animated-icons/html.svg" height="40" alt="HTML5" /> **HTML5**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img align="center" src="./animated-icons/css.svg" height="40" alt="CSS3" /> **CSS3**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" src="./animated-icons/ts.svg" height="40" alt="TypeScript" /> **TypeScript**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://react.dev/" target="_blank"><img align="center" src="./animated-icons/react.svg" height="40" alt="React" /> **React**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nextjs.org/" target="_blank"><img align="center" src="./animated-icons/next.svg" height="40" alt="Next.js" /> **Next.js**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://getbootstrap.com" target="_blank"><img align="center" src="./animated-icons/bootstrap.svg" height="40" alt="Bootstrap" /> **Bootstrap**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tailwindcss.com/" target="_blank"><img align="center" src="./animated-icons/tailwind.svg" height="40" alt="Tailwind CSS" /> **Tailwind**</a>
+
+### ⚙️ Backend & Core
+<a href="https://www.python.org" target="_blank"><img align="center" src="./animated-icons/py.svg" height="40" alt="Python" /> **Python**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nodejs.org" target="_blank"><img align="center" src="./animated-icons/nodejs.svg" height="40" alt="Node.js" /> **Node.js**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://expressjs.com/" target="_blank"><img align="center" src="./animated-icons/express.svg" height="40" alt="Express" /> **Express**</a>
+
+### 🧰 Tools & Databases
+<a href="https://www.postgresql.org" target="_blank"><img align="center" src="./animated-icons/postgres.svg" height="40" alt="PostgreSQL" /> **PostgreSQL**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank"><img align="center" src="./animated-icons/mongo.svg" height="40" alt="MongoDB" /> **MongoDB**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"><img align="center" src="./animated-icons/git.svg" height="40" alt="Git" /> **Git**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.docker.com/" target="_blank"><img align="center" src="./animated-icons/docker.svg" height="40" alt="Docker" /> **Docker**</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.postman.com/" target="_blank"><img align="center" src="./animated-icons/postman.svg" height="40" alt="Postman" /> **Postman**</a>
 
 ---
 
