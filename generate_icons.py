@@ -17,10 +17,11 @@ icons = {
     "mongo": "https://skillicons.dev/icons?i=mongo",
     "docker": "https://skillicons.dev/icons?i=docker",
     "express": "https://skillicons.dev/icons?i=express",
-    "postman": "https://skillicons.dev/icons?i=postman"
+    "postman": "https://skillicons.dev/icons?i=postman",
+    "js": "https://skillicons.dev/icons?i=js"
 }
 
-out_dir = "/home/cohorte6/Desktop/readme git/animated-icons"
+out_dir = os.path.join(os.path.dirname(__file__), "animated-icons")
 os.makedirs(out_dir, exist_ok=True)
 
 for name, url in icons.items():

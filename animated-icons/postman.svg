@@ -37,7 +37,7 @@
     }
     svg {
         animation: float 3s ease-in-out infinite;
-        animation-delay: -0.1s;
+        animation-delay: -0.8s;
         overflow: visible;
     }
     .hover-target {
